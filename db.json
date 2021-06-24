@@ -1,0 +1,171 @@
+{
+    "companhia": [
+        {
+            "id": 1,
+            "nome": "TAM", 
+            "codigo": 12354
+        },
+        {
+            "id": 2,
+            "nome": "GOL",
+            "codigo": 78965
+        },
+        {
+            "id": 3,
+            "nome": "Azul",
+            "codigo": 54129
+        }
+    ],
+    "voo": [
+        {
+            "id": 1,
+            "data": "10/10/2021",
+            "horario": "14:12",
+            "numero": 54873,
+            "destino": "Curitiba",
+            "portaoEmbarque": "AD5263",
+            "Companhia": 1
+        },
+        {
+            "id": 2,
+            "data": "02/03/2021",
+            "horario": "18:12",
+            "numero": 63981,
+            "destino": "São Paulo",
+            "portaoEmbarque": "FV6398",
+            "Companhia": 1
+        },
+        {
+            "id": 3,
+            "data": "30/10/2021",
+            "horario": "08:12",
+            "numero": 65874,
+            "destino": "Belo Horizonte",
+            "portaoEmbarque": "FG9874",
+            "Companhia": 2
+        },
+        {
+            "id": 4,
+            "data": "22/10/2021",
+            "horario": "10:12",
+            "numero": 99993,
+            "destino": "Rio de Janeiro",
+            "portaoEmbarque": "BG9825",
+            "Companhia": 3
+        },
+        {
+            "id": 5,
+            "data": "13/10/2021",
+            "horario": "06:12",
+            "numero": 98666,
+            "destino": "Florianópolis",
+            "portaoEmbarque": "RT9822",
+            "Companhia": 3
+        },
+        {
+            "id": 6,
+            "data": "25/10/2021",
+            "horario": "00:12",
+            "numero": 98744,
+            "destino": "Manaus",
+            "portaoEmbarque": "TT9999",
+            "Companhia": 2
+        },
+        {
+            "id": 7,
+            "data": "24/10/2021",
+            "horario": "02:12",
+            "numero": 88888,
+            "destino": "Belém",
+            "portaoEmbarque": "QQ3333",
+            "Companhia": 1
+        },
+        {
+            "id": 8,
+            "data": "31/10/2021",
+            "horario": "20:12",
+            "numero": 11222,
+            "destino": "Porto Alegre",
+            "portaoEmbarque": "WW3333",
+            "Companhia": 2
+        },
+        {
+            "id": 9,
+            "data": "22/11/2021",
+            "horario": "22:22",
+            "numero": 33388,
+            "destino": "Campo Grande",
+            "portaoEmbarque": "VV66588",
+            "Companhia": 2
+        },
+        {
+            "id": 10,
+            "data": "29/10/2021",
+            "horario": "23:12",
+            "numero": 55555,
+            "destino": "Palmas",
+            "portaoEmbarque": "QQ88855",
+            "Companhia": 2
+        }
+    ],
+    "aerorporto": 
+  [
+        {
+            "id": 1,
+            "nome": "Congonhas",
+            "codigo": "AA36",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "pais": "Brasil"
+        },
+        {
+            "id": 2,
+            "nome": "Santos Drumont",
+            "codigo": "BB55",
+            "cidade": "Rio de Janeiro",
+            "estado": "RJ",
+            "pais": "Brasil"
+        },
+        {
+            "id": 3,
+            "nome": "Lysias Rodrigues",
+            "codigo": "WW55",
+            "cidade": "Palmas",
+            "estado": "TO",
+            "pais": "Brasil"
+        },
+        {
+            "id": 4,
+            "nome": "Hercílio Luz",
+            "codigo": "TT77",
+            "cidade": "Florianópolis",
+            "estado": "SC",
+            "pais": "Brasil"
+        }
+  ],
+    "gerenciacompanhiasaereas": [
+        {
+          "companhia": 1
+        },
+        {
+            "companhia": 2
+        },
+        {
+            "companhia": 3
+        }
+    ],
+    "infraero": [
+        {
+            "aeroporto": 1
+        },
+        {
+            "aeroporto": 2
+        },
+        {
+            "aeroporto": 3
+        },
+        {
+            "aeroporto": 4
+        }
+    ]
+}
