@@ -117,7 +117,17 @@
             "cidade": "São Paulo",
             "estado": "SP",
             "pais": "Brasil",
-            "voo": 2
+            "voo": [
+                {
+                    "id": 2,
+                    "data": "02/03/2021",
+                    "horario": "18:12",
+                    "numero": 63981,
+                    "destino": "São Paulo",
+                    "portaoEmbarque": "FV6398",
+                    "Companhia": 1
+                }
+            ]
         },
         {
             "id": 2,
@@ -126,7 +136,17 @@
             "cidade": "Rio de Janeiro",
             "estado": "RJ",
             "pais": "Brasil",
-            "voo": 5
+            "voo": [
+                {
+                    "id": 5,
+                    "data": "13/10/2021",
+                    "horario": "06:12",
+                    "numero": 98666,
+                    "destino": "Florianópolis",
+                    "portaoEmbarque": "RT9822",
+                    "Companhia": 3
+                }
+            ]
         },
         {
             "id": 3,
@@ -135,7 +155,17 @@
             "cidade": "Palmas",
             "estado": "TO",
             "pais": "Brasil",
-            "voo": 10
+            "voo": [
+                {
+                    "id": 10,
+                    "data": "29/10/2021",
+                    "horario": "23:12",
+                    "numero": 55555,
+                    "destino": "Palmas",
+                    "portaoEmbarque": "QQ88855",
+                    "Companhia": 2
+                }
+            ]
         },
         {
             "id": 4,
@@ -144,7 +174,17 @@
             "cidade": "Florianópolis",
             "estado": "SC",
             "pais": "Brasil",
-            "voo": 8
+            "voo": [
+                {
+                    "id": 8,
+                    "data": "31/10/2021",
+                    "horario": "20:12",
+                    "numero": 11222,
+                    "destino": "Porto Alegre",
+                    "portaoEmbarque": "WW3333",
+                    "Companhia": 2
+                }
+            ]
         }
   ],
     "gerenciacompanhiasaereas": [
