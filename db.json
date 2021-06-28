@@ -24,7 +24,11 @@
             "numero": 54873,
             "destino": "Curitiba",
             "portaoEmbarque": "AD5263",
-            "Companhia": 1
+            "Companhia": {
+                "id": 1,
+                "nome": "TAM", 
+                "codigo": 12354
+            }
         },
         {
             "id": 2,
@@ -33,7 +37,11 @@
             "numero": 63981,
             "destino": "São Paulo",
             "portaoEmbarque": "FV6398",
-            "Companhia": 1
+            "Companhia": {
+                "id": 1,
+                "nome": "TAM", 
+                "codigo": 12354
+            }
         },
         {
             "id": 3,
@@ -42,7 +50,11 @@
             "numero": 65874,
             "destino": "Belo Horizonte",
             "portaoEmbarque": "FG9874",
-            "Companhia": 2
+            "Companhia":  {
+                "id": 2,
+                "nome": "GOL",
+                "codigo": 78965
+            }
         },
         {
             "id": 4,
@@ -51,7 +63,11 @@
             "numero": 99993,
             "destino": "Rio de Janeiro",
             "portaoEmbarque": "BG9825",
-            "Companhia": 3
+            "Companhia":  {
+                "id": 3,
+                "nome": "Azul",
+                "codigo": 54129
+            }
         },
         {
             "id": 5,
@@ -60,7 +76,11 @@
             "numero": 98666,
             "destino": "Florianópolis",
             "portaoEmbarque": "RT9822",
-            "Companhia": 3
+            "Companhia":  {
+                "id": 3,
+                "nome": "Azul",
+                "codigo": 54129
+            }
         },
         {
             "id": 6,
@@ -69,7 +89,11 @@
             "numero": 98744,
             "destino": "Manaus",
             "portaoEmbarque": "TT9999",
-            "Companhia": 2
+            "Companhia":  {
+                "id": 2,
+                "nome": "GOL",
+                "codigo": 78965
+            }
         },
         {
             "id": 7,
@@ -78,7 +102,11 @@
             "numero": 88888,
             "destino": "Belém",
             "portaoEmbarque": "QQ3333",
-            "Companhia": 1
+            "Companhia":  {
+                "id": 1,
+                "nome": "TAM", 
+                "codigo": 12354
+            }
         },
         {
             "id": 8,
@@ -87,7 +115,12 @@
             "numero": 11222,
             "destino": "Porto Alegre",
             "portaoEmbarque": "WW3333",
-            "Companhia": 2
+            "Companhia": 
+            {
+                "id": 2,
+                "nome": "GOL",
+                "codigo": 78965
+            }
         },
         {
             "id": 9,
@@ -96,7 +129,11 @@
             "numero": 33388,
             "destino": "Campo Grande",
             "portaoEmbarque": "VV66588",
-            "Companhia": 2
+            "Companhia":  {
+                "id": 2,
+                "nome": "GOL",
+                "codigo": 78965
+            }
         },
         {
             "id": 10,
@@ -105,7 +142,11 @@
             "numero": 55555,
             "destino": "Palmas",
             "portaoEmbarque": "QQ88855",
-            "Companhia": 2
+            "Companhia":  {
+                "id": 2,
+                "nome": "GOL",
+                "codigo": 78965
+            }
         }
     ],
     "aerorporto": 
@@ -222,30 +263,6 @@
                 }
             ]
         }
-  ],
-    "gerenciacompanhiasaereas": [
-        {
-          "companhia": 1
-        },
-        {
-            "companhia": 2
-        },
-        {
-            "companhia": 3
-        }
-    ],
-    "infraero": [
-        {
-            "aeroporto": 1
-        },
-        {
-            "aeroporto": 2
-        },
-        {
-            "aeroporto": 3
-        },
-        {
-            "aeroporto": 4
-        }
-    ]
+  ]
 }
+   
