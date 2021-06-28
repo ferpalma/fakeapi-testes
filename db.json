@@ -117,7 +117,7 @@
             "cidade": "São Paulo",
             "estado": "SP",
             "pais": "Brasil",
-            "voo": 
+            "voo": [
                 {
                     "id": 2,
                     "data": "02/03/2021",
@@ -127,7 +127,7 @@
                     "portaoEmbarque": "FV6398",
                     "Companhia": 1
                 }
-            
+            ]
         },
         {
             "id": 2,
@@ -136,7 +136,7 @@
             "cidade": "Rio de Janeiro",
             "estado": "RJ",
             "pais": "Brasil",
-            "voo": 
+            "voo": [
                 {
                     "id": 5,
                     "data": "13/10/2021",
@@ -146,7 +146,7 @@
                     "portaoEmbarque": "RT9822",
                     "Companhia": 3
                 }
-            
+            ]
         },
         {
             "id": 3,
@@ -155,7 +155,7 @@
             "cidade": "Palmas",
             "estado": "TO",
             "pais": "Brasil",
-            "voo": 
+            "voo": [
                 {
                     "id": 10,
                     "data": "29/10/2021",
@@ -165,7 +165,7 @@
                     "portaoEmbarque": "QQ88855",
                     "Companhia": 2
                 }
-            
+            ]
         },
         {
             "id": 4,
@@ -174,7 +174,7 @@
             "cidade": "Florianópolis",
             "estado": "SC",
             "pais": "Brasil",
-            "voo": 
+            "voo": [
                 {
                     "id": 8,
                     "data": "31/10/2021",
@@ -184,7 +184,7 @@
                     "portaoEmbarque": "WW3333",
                     "Companhia": 2
                 }
-            
+            ]
         }
   ],
     "gerenciacompanhiasaereas": [
