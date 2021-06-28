@@ -126,6 +126,15 @@
                     "destino": "São Paulo",
                     "portaoEmbarque": "FV6398",
                     "Companhia": 1
+                },
+                {
+                    "id": 1,
+                    "data": "10/10/2021",
+                    "horario": "14:12",
+                    "numero": 54873,
+                    "destino": "Curitiba",
+                    "portaoEmbarque": "AD5263",
+                    "Companhia": 1
                 }
             ]
         },
@@ -145,6 +154,15 @@
                     "destino": "Florianópolis",
                     "portaoEmbarque": "RT9822",
                     "Companhia": 3
+                },
+                {
+                    "id": 3,
+                    "data": "30/10/2021",
+                    "horario": "08:12",
+                    "numero": 65874,
+                    "destino": "Belo Horizonte",
+                    "portaoEmbarque": "FG9874",
+                    "Companhia": 2
                 }
             ]
         },
@@ -164,6 +182,15 @@
                     "destino": "Palmas",
                     "portaoEmbarque": "QQ88855",
                     "Companhia": 2
+                },
+                {
+                    "id": 4,
+                    "data": "22/10/2021",
+                    "horario": "10:12",
+                    "numero": 99993,
+                    "destino": "Rio de Janeiro",
+                    "portaoEmbarque": "BG9825",
+                    "Companhia": 3
                 }
             ]
         },
@@ -182,6 +209,15 @@
                     "numero": 11222,
                     "destino": "Porto Alegre",
                     "portaoEmbarque": "WW3333",
+                    "Companhia": 2
+                },
+                {
+                    "id": 9,
+                    "data": "22/11/2021",
+                    "horario": "22:22",
+                    "numero": 33388,
+                    "destino": "Campo Grande",
+                    "portaoEmbarque": "VV66588",
                     "Companhia": 2
                 }
             ]
